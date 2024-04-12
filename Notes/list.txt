@@ -1,0 +1,35 @@
+Lists : Lists are use to list of certain iteams.
+HTML contains 3 types of lists.
+1==>Ordered Lists
+
+List of iteams Where Order is imp.
+eg==>
+ <ol>
+        <li>Sivaraju</li>
+        <li>chidananda</li>
+        <li>somu</li>
+        <li>karthik</li>
+
+    </ol>
+
+1.Sivaraju
+2.chidananda
+3.somu.
+4.karthik
+
+
+2==>UnOrdered lists
+
+Skills
+.Skills1
+.Skills2
+.Skills3
+
+3==> Description lists
+List of events or items Mentions with References.
+eg==>
+A company Growth 
+
+1 task ==>  
+
+

@@ -1,0 +1,49 @@
+HTML 
+Is the HYPER TEXT MARKUP LANGUAGE
+IS USED to create a tags in the body.
+
+HTML Hyper Text Markup language.
+CERN==> 1992
+Seleton of the web pages
+shortscuts of is open in html is
+
+1==> Shift+1  ==> Enter
+2==> doc ==>Enter
+3==> html:5 ==> Enter
+
+<!DOCTYPE html>
+***************
+
+This line states the following Document is HTML Type.
+
+<html lang="en">
+*******************
+This line represents HTML starting and language is english.
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    ******************************
+    Title represents the title of the web pages .
+</head>
+
+*********************************************
+Head represents Meta Data.
+
+<body>    
+</body>
+************************
+Body represents the 
+
+</html>
+open the extension 
+1==> live serverinstall.
+2==> live preview.
+
+open the file 
+select the auto save option.
+and next step live preview 
+
+The gap we give in editor for foe more 
+

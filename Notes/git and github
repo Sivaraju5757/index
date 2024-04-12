@@ -1,0 +1,24 @@
+cmd
+==> git -v
+
+open git hub 
+login git hub
+gmail.com
+
+terminal ==> New terminal
+Git commands
+git config --global user.email "    "
+git config --global user.name "    "
+
+1==>git init
+2==>git add .
+3==>git commit -m "message"
+
+push up git hub
+git remote add origin "link"
+git push -u origin master 
+
+
+
+
+
