@@ -1,0 +1,33 @@
+body
+{
+background-color:whitesmoke;
+background: radial-gradient(red,green);
+}
+h1
+{
+    text-align: center;
+    background-color: burlywood;
+    color:aqua;
+}
+.button
+{
+    background-color: white;
+    border-radius: 100px;
+    text-align: center;
+    padding:10px;
+
+
+}
+#s1
+{
+    background-color:violet;
+  
+}
+#s3
+{
+    background-color:violet;
+}
+#s5
+{
+    background-color: blue;
+}
